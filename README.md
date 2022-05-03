@@ -7,15 +7,10 @@
 ### Скриншоты приложения
 
 ![Home](/assets/screenshot_1.png)
-
 ![Movie catalog](/assets/screenshot_2.png)
-
 ![Sort](/assets/screenshot_3.png)
-
 ![Filter genres](/assets/screenshot_4.png)
-
 ![Movie info](/assets/screenshot_5.png)
-
 ![Media player](/assets/screenshot_6.png)
 
 #### Поддерживаемый функционал:
